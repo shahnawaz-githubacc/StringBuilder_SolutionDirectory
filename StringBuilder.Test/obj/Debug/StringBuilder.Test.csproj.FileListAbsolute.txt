@@ -1,0 +1,17 @@
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\StringBuilder.Test.dll
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\StringBuilder.Test.pdb
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\StringBuilder.exe
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\StringBuilder.pdb
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\StringBuilder.exe.config
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\obj\Debug\StringBuilder.Test.csprojAssemblyReference.cache
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\obj\Debug\StringBuilder.Test.csproj.CoreCompileInputs.cache
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\obj\Debug\StringBuilder.Test.csproj.CopyComplete
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\obj\Debug\StringBuilder.Test.dll
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder.Test\obj\Debug\StringBuilder.Test.pdb

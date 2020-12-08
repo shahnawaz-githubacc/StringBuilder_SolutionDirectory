@@ -1,0 +1,7 @@
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder_ProjectDirectory\bin\Debug\StringBuilder.exe.config
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder_ProjectDirectory\bin\Debug\StringBuilder.exe
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder_ProjectDirectory\bin\Debug\StringBuilder.pdb
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder_ProjectDirectory\obj\Debug\StringBuilder.csprojAssemblyReference.cache
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder_ProjectDirectory\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder_ProjectDirectory\obj\Debug\StringBuilder.exe
+D:\Programming\WorkAssignments\QI\StringBuilder_SolutionDirectory\StringBuilder_ProjectDirectory\obj\Debug\StringBuilder.pdb
